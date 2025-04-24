@@ -1,8 +1,8 @@
 <!-- GoogleBot: noindex -->
 
-# SOC-182Days-Challenge
+# SOC-200Days-Challenge
 
-## 0 / 140 Solved
+## 0 / 191+ Solved
 
 This repository contains a comprehensive collection of case studies completed over the course of 182 days, simulating real-world incident response and SOC operations across multiple domains. The challenge was designed to reinforce hands-on skills, improve threat detection capabilities, and build a strong investigative mindset aligned with MITRE ATT&CK tactics.
 
