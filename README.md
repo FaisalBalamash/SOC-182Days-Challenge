@@ -39,13 +39,12 @@ This repository contains a personal collection of case studies to be completed o
 - CyberChef, YARA, PEStudio
 - Sysmon, Velociraptor
 - OSINT platforms, OpenCTI
-- CyberDefenders
 
 ---
 
 ## 📁 Repository Structure
 ```
-SOC-200Days-Challenge/
+SOC-220Days-Challenge/
 ├── README.md
 ├── Endpoint_Forensics/
 ├── Network_Forensics/
