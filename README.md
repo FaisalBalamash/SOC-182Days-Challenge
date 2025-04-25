@@ -46,12 +46,12 @@ This repository contains a personal collection of case studies to be completed o
 ```
 SOC-220Days-Challenge/
 ├── README.md
-├── Endpoint_Forensics/
-├── Network_Forensics/
-├── Malware_Analysis/
-├── Threat_Hunting/
-├── Threat_Intel/
-└── Cloud_Forensics/
+├── Endpoint Forensics/
+├── Network Forensics/
+├── Malware Analysis/
+├── Threat Hunting/
+├── Threat Intel/
+└── Cloud Forensics/
 ```
 Each folder contains individual lab case studies in Markdown format following the structure below.
 
