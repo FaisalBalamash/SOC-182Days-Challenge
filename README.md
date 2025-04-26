@@ -3,7 +3,7 @@
 # SOC-220Days-Challenge
 
 ## 2 / 191 Solved
-## Day 2/220
+## Day 3/220
 
 This repository contains a personal collection of case studies to be completed over the course of 220 days, simulating real-world incident response and SOC operations across multiple domains. The challenge is designed for personal development to reinforce hands-on skills, improve threat detection capabilities, and build a strong investigative mindset aligned with MITRE ATT&CK tactics.
 
